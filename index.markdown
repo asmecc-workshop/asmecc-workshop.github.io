@@ -4,37 +4,58 @@
 
 layout: page
 redirect_to:
-  - https://discoli-workshop.github.io/2023
+  - https://asmecc-workshop.github.io/2023
 ---
 
 <script type="text/javascript">
-window.location.replace("https://discoli-workshop.github.io/2023");
+window.location.replace("https://asmecc-workshop.github.io/2023");
 </script>
 
-# **DISCOLI** Workshop on **DIS**tributed **COL**lective **I**ntelligence <!-- **** -->
+# **ASMECC** Workshop on **A**utonomic and **S**elf-* **M**anagement for the **E**dge-**C**loud **C**ontinuum <!-- **** -->
 
 ## Editions
 
-- **[2023 edition: 2nd DISCOLI workshop on DIStributed COLlective Intelligence](https://discoli-workshop.github.io/2023)**, co-located with the [19th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS 2023)](https://dcoss.org/) that will take place in Coral Bay, Pafos, Cyprus.
-- **[2022 edition: 1st DISCOLI workshop on DIStributed COLlective Intelligence](https://discoli-workshop.github.io/2022)**, co-located with the [42nd IEEE International Conference on Distributed Computing Systems (ICDCS 2022)](https://icdcs2022.icdcs.org/) that will take place in Bologna, Italy, 10-13 July 2022.
+- **[2023 edition: 1st ASMECC Workshop on Autonomic and Self-* Management for the Edge-Cloud Continuum](https://asmecc-workshop.github.io/2023)**, co-located with the [4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2023)](https://2023.acsos.org/) that will take place in Toronto, Canada.
 
 ## Scope
 
-Recent technological and scientific trends are promoting a vision where intelligence is more and more distributed and collective. Indeed, as computing and communication technologies are becoming increasingly pervasive, and complexity of systems is growing in terms of scale, heterogeneity, and interaction, hence the focus tends to shift from the intelligence of individual devices or agents to the collective intelligence emerging from a dynamic collection of diverse devices. Such intelligence would allow systems to address complex problems through proper coordination (e.g., cooperation or competition), to self-organise to promote functionality under changing environments, and to improve decision-making capabilities.  
-The workshop aims to provide a forum where researchers and practitioners can share and discuss fundamental concepts, models, and techniques for studying and implementing collectively intelligent distributed systems. Accordingly, it welcomes original research work providing ideas and technical contributions for promoting scientific discussion and practical adoption of collective intelligence mechanisms in engineered systems.
+Edge-cloud computing continuum paradigms (e.g. edge, fog, mist computing) enable
+distributed and pervasive computing and networking to support a variety of novel ICT-based
+applications and services. They represent a deployment target and a management plane for the
+software elements (components, microservices, functions) making up modern distributed
+applications. The heterogeneity, pervasiveness, dynamism, and interplay with applications, that
+characterise the cloud-edge continuum provide significant opportunities and challenges, in
+terms of operational flexibility and efficiency. A major challenge lies in supporting the autonomic
+management of applications while respecting and opportunistically optimising against the set of
+constraints, requirements, and preferences indicated by applications, users, owners, and
+providers. Edge-cloud continua have to become intelligent, embedding cognitive-like capabilities
+for monitoring, reasoning, planning, and acting.
 
-The topics of interest include (but are not limited to) the following:
+A number of specific issues arise, requiring novel ideas and techniques to be developed. For
+instance, how can MAPE-K architectures be adapted to work on the edge-cloud continuum?
+How may learning be exploited to refine dynamic deployment policies or anticipate changes?
+How can the learned models be explained? What programming models can be used to
+adequately express application logic independently of its deployment across the continuum?
+What formal specification languages can support architectural descriptions while enabling
+analysis of properties of interest? How can the infrastructure self-organise into resilient
+structures supporting connectivity and distributed task allocation? How to promote sustainability
+and energy/resource-efficiency across the edge-cloud continuum? These are just a few
+research questions that may be investigated. But the investigation itself requires tools,
+simulators, and benchmarks to conduct experiments in controlled environments without
+incurring in the costs of running experiments in real-world settings.
+This workshop solicits papers that investigate on the use of autonomic/self-* techniques to
+understand, design, and develop solutions on/for the edge-fog-cloud continuum. The topics of
+interest include (but are not limited to) the following:
 
-- Algorithms for self-adaptive/self-organizing system behaviour
-- Algorithms of artificial collective intelligence (e.g., multi-agent reinforcement learning)
-- Techniques for task-specific collective intelligence
-- Extraction of collective knowledge in Internet of Things systems
-- Collaborations of humans and artificial agents in socio-technical systems
-- Formal models for computational collective intelligence
-- Design and verification of emergent properties in distributed systems
-- Coordination models and languages
-- Programming languages for distributed CI systems
-- Languages for multi-tier programming or macro-programming
-- CI for distributed wearable computing systems
-- Techniques for crowd computing systems and applications
-- Applications of distributed CI for smart environments
+- Algorithms for self-adaptive/self-organising management of applications across the edge-fog-cloud continuum
+- Devops solutions for the edge-fog-cloud continuum
+- Languages for the specification of deployments, applications, or management policies
+- AI techniques for the edge-fog-cloud continuum
+- ML techniques for the edge-fog-cloud continuum
+- Mathematical methods supporting modelling and algorithmic solutions for the edge-fog-cloud and its management issues
+- Soft computing techniques for the edge-fog-cloud continuum
+- Self-* techniques for the edge-fog-cloud continuum
+- Theories and models at the basis of applications and platforms on the edge-fog-cloud continuum
+- Tools or simulators for the edge-fog-cloud continuum
+- Edge-cloud computing for the Internet of Things and cyber-physical systems
+- Edge-cloud computing for swarm systems

@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DISCOLI Workshop
+title: ASMECC Workshop
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Website for the DISCOLI workshop on DIStributed COLlective Intelligence.
+  Website for the ASMECC workshop on Autonomic and Self-* Management for the Edge-Cloud Continuum.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://discoli-workshop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: discoli_workshop
-#github_username:  discoli-workshop
+url: "https://asmecc-workshop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: asmecc_workshop
+#github_username:  asmecc-workshop
 
 # Build settings
 theme: minima
